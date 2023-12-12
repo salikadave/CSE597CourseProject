@@ -1,5 +1,4 @@
 # CSE597 Course Project
-CSE 597 Course Project
 
 **Paper:** COGMEN: COntextualized GNN based Multimodal Emotion recognitioN
 
