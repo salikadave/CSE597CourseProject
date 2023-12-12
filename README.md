@@ -5,9 +5,10 @@ CSE 597 Course Project
 
 **Paper Link:** [COGMEN](https://paperswithcode.com/paper/cogmen-contextualized-gnn-based-multimodal)
 
-** Dataset: ** [IEMOCAP (The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database)](https://paperswithcode.com/dataset/iemocap)
+**Dataset:** [IEMOCAP (The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database)](https://paperswithcode.com/dataset/iemocap)
 
 Refer `cogmen.ipynb` for training and evaluation results.
+
 Note: Training and evaluation scripts have been executed using Google Colab T4 GPU.
 
 **Training Setting:**
