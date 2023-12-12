@@ -1,5 +1,7 @@
 # CSE597 Course Project
 
+**Task**: Multimodal Emotion Recognition. [Browse SOTA](https://paperswithcode.com/task/multimodal-emotion-recognition)
+
 **Paper:** COGMEN: COntextualized GNN based Multimodal Emotion recognitioN
 
 **Repository**: [Github](https://github.com/exploration-lab/cogmen)
