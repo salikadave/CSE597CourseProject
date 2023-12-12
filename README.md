@@ -3,6 +3,8 @@ CSE 597 Course Project
 
 **Paper:** COGMEN: COntextualized GNN based Multimodal Emotion recognitioN
 
+**Repository**: [Github](https://github.com/exploration-lab/cogmen)
+
 **Paper Link:** [COGMEN](https://paperswithcode.com/paper/cogmen-contextualized-gnn-based-multimodal)
 
 **Dataset:** [IEMOCAP (The Interactive Emotional Dyadic Motion Capture (IEMOCAP) Database)](https://paperswithcode.com/dataset/iemocap)
