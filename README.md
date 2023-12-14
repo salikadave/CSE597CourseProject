@@ -44,3 +44,15 @@ Note: Training and evaluation scripts have been executed using Google Colab T4 G
 
     F1 Score: 0.7603731563847743
     Paper Reported F1 Score: 0.8671
+
+### Summary of Results
+
+| Experiment | Modality | Epochs | Optimizer | Window Past | Window Future | F1 Score |
+| ----------- | ----------- |----------- |----------- |----------- |----------- |----------- |
+| Varying Optimizer | atv | 10 | sgd | 4 | 4  | 0.14271 |
+| Varying Modalites | a | 50 | adam | 4 | 4  | 0.6022 |
+| Varying Modalites | t | 50 | adam | 10 | 10  | 0.7254 |
+| Varying Modalites | v | 50 | adam | 10 | 10  | 0.4411 |
+| Varying Modalites | av | 50 | adam | 10 | 10  | 0.6237 |
+| Varying Modalites | tv | 50 | adam | 10 | 10  | 0.7583 |
+| Varying Modalites | at | 50 | adam | 10 | 10  | 0.8223 |
